@@ -1,3 +1,25 @@
+
+1. Go to https://github.com/Daqirraty/nlpc and clone the repository
+2. Open a terminal or cmd in your local machine. Use the command "git clone https://github.com/Daqirraty/nlpc.git"
+3. Navigate to the directory where you cloned the repo by using the cd (change directory) command followed by the path of the folder
+4. Navigate to the cloned folder using cd (change directory) command
+5. Run npm install to download all dependencies for this project.
+6. Once downloaded, the program will start running and you can test it by typing commands like: "npm run start" script from the terminal.
+
+7. Deployment address: https://nlpc-pfa-test.vercel.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
