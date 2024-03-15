@@ -1,6 +1,5 @@
 import React from 'react'
 import SideNav from "../../components/sideNav";
-// import Main from "../../components/main"; 
 import Header from '../header';
 
 const Container = ({children}) => {

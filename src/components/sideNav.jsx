@@ -2,10 +2,8 @@ import React from "react";
 import Logo from "../assets/logo.jpeg";
 import { LiaHomeSolid } from "react-icons/lia";
 import { ImStatsBars } from "react-icons/im";
-import { FiMail } from "react-icons/fi";
 import { BsArrowLeftRight } from "react-icons/bs";
 import { LiaCreditCardSolid } from "react-icons/lia";
-import { BsGear } from "react-icons/bs";
 import { RxExit } from "react-icons/rx";
 
 const SideNav = () => {
